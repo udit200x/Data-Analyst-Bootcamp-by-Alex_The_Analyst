@@ -109,7 +109,7 @@ END as Hike_Percent
 FROM Parks_and_Recreation.employee_salary
 ;
 
-##SUBQUERIES
+##SUBQUERIES are almost like creating mini tables for easy access.
 
 SELECT * 
 FROM Parks_and_Recreation.employee_demographics;
