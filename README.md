@@ -8,4 +8,4 @@ As I learn more about Data Analysis, I am going to keep filling up this reposito
 ##22/02/2026 - Did a Data Cleaning project, understood Removing Duplicates, Standardizing Data, Removing Null Values and Dropping Columns (project_sql)
 
 
-SQL keywords - LIKE statement, ALTER statment, CREATE TABLE clause, JOIN and ON as a parameter to join both the left and right side of the tables and Aliasing.
+_**SQL keywords**_ - LIKE statement, ALTER statment, CREATE TABLE clause, JOIN and ON as a parameter to join both the left and right side of the tables and Aliasing.
