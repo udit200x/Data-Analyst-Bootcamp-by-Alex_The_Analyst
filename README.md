@@ -7,7 +7,7 @@ As I learn more about Data Analysis, I am going to keep filling up this reposito
 
 ##22/02/2026 - Did a Data Cleaning project, understood Removing Duplicates, Standardizing Data, Removing Null Values and Dropping Columns (project_sql)
 
-##25/02/2026 - Made an EDA (Exploratory Data Analysis) where I ranked companies based off the highest layoffs in a year, each year, by taking total laid off as sum and making CTEs and calling CTEs internally from each other.
+##25/02/2026 - Made an EDA (Exploratory Data Analysis) project where I ranked companies based off the highest layoffs in a year, each year, by taking total laid off as sum and making CTEs and calling CTEs internally from each other.
 Really helpful project on how company layoff data is assimilated and ranked based off just simple SQL queries
 
 _**SQL keywords**_ - LIKE statement, ALTER statment, CREATE TABLE clause, JOIN and ON as a parameter to join both the left and right side of the tables and Aliasing, PARTITION BY, ORDER BY, GROUP BY.
