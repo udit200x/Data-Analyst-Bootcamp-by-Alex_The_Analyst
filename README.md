@@ -12,6 +12,6 @@ Really helpful project on how company layoff data is assimilated and ranked base
               
 Pivot tables made in Excel using the inbuilt commands (made in LibreOfficeCalc on Arch Linux Distro "CachyOS") - File name:Sales.csv.
 
-'Excel Formula Template.ods' mentions SUM,SUMIF,SUMIFS,DAYS,NETWORKDAYS,CONCATENATE,TRIM,SUBSITUTE,COUNT,COUNTIF,COUNTIFS,TEXT and DateToText.
+'Excel Formula Template.ods' mentions SUM, SUMIF, SUMIFS, DAYS, NETWORKDAYS, CONCATENATE, TRIM, SUBSITUTE, COUNT, COUNTIF, COUNTIFS, TEXT and DateToText. (IMPORTANT Formulas for Excel)
 
 _**SQL keywords**_ - LIKE statement, ALTER statment, CREATE TABLE clause, JOIN and ON as a parameter to join both the left and right side of the tables and Aliasing, PARTITION BY, ORDER BY, GROUP BY.
